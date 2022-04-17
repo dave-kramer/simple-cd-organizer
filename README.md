@@ -6,7 +6,15 @@
 
 > Simple program to keep track of what you put on your CD/DVD's
 
+## Table of Contents
 
+- [Installation](#installation)
+- [Previews](#previews)
+
+## Installation
+- coming
+
+## Previews
 ![imgfront](https://github.com/dave-kramer/simple-cd-organizer/blob/main/previews/1.png)
 ![imgcreatecd](https://github.com/dave-kramer/simple-cd-organizer/blob/main/previews/2.png)
 ![imgorganizer](https://github.com/dave-kramer/simple-cd-organizer/blob/main/previews/3.png)
